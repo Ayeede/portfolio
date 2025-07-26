@@ -2,6 +2,7 @@ import 'package:cv_main_project/config/data/projects.dart';
 import 'package:cv_main_project/config/models/project_model.dart';
 import 'package:cv_main_project/config/route_config.dart';
 import 'package:cv_main_project/projects/bmi_calculator/input_page.dart';
+import 'package:cv_main_project/projects/crypto_checker/price_screen.dart';
 import 'package:cv_main_project/projects/flash_chat/flash_chat.dart';
 import 'package:cv_main_project/projects/todo/models/task_data.dart';
 import 'package:cv_main_project/projects/todo/screens/task_screen.dart';
@@ -80,6 +81,7 @@ class ProjectDetailPage extends StatelessWidget {
           create: (context) => TaskData(),
           builder: (context, child) => MaterialApp(home: TaskScreen()),
         ),
+        'cryptoChecker' => PriceScreen(),
 
         // Default case, _ (is a wildcard and will allow all else.)
         _ => Center(
