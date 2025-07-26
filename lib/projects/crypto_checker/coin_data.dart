@@ -1,4 +1,4 @@
-import 'package:cv_main_project/projects/crypto_checker/get_api.dart';
+import 'package:ayden_davis_portfolio_website/projects/crypto_checker/get_api.dart';
 import 'package:flutter/material.dart';
 import 'constants.dart';
 

@@ -1,6 +1,6 @@
-import 'package:cv_main_project/config/data/projects.dart';
-import 'package:cv_main_project/config/route_config.dart';
-import 'package:cv_main_project/widgets/project_card.dart';
+import 'package:ayden_davis_portfolio_website/config/data/projects.dart';
+import 'package:ayden_davis_portfolio_website/config/route_config.dart';
+import 'package:ayden_davis_portfolio_website/widgets/project_card.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

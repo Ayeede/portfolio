@@ -1,4 +1,4 @@
-import 'package:cv_main_project/projects/bmi_calculator/components.dart';
+import 'package:ayden_davis_portfolio_website/projects/bmi_calculator/components.dart';
 import 'package:flutter/material.dart';
 
 class IconSelector extends StatelessWidget {

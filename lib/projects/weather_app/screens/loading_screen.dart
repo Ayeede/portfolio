@@ -1,5 +1,5 @@
-import 'package:cv_main_project/projects/weather_app/screens/location_screen.dart';
-import 'package:cv_main_project/projects/weather_app/services/weather.dart';
+import 'package:ayden_davis_portfolio_website/projects/weather_app/screens/location_screen.dart';
+import 'package:ayden_davis_portfolio_website/projects/weather_app/services/weather.dart';
 import 'package:flutter/material.dart';
 
 import 'package:flutter_spinkit/flutter_spinkit.dart';

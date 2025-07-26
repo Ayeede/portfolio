@@ -1,5 +1,5 @@
-import 'package:cv_main_project/config/app_router.dart';
-import 'package:cv_main_project/projects/flash_chat/firebase_options.dart';
+import 'package:ayden_davis_portfolio_website/config/app_router.dart';
+import 'package:ayden_davis_portfolio_website/projects/flash_chat/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 

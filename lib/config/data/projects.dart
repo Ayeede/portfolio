@@ -1,4 +1,4 @@
-import 'package:cv_main_project/config/models/project_model.dart';
+import 'package:ayden_davis_portfolio_website/config/models/project_model.dart';
 
 final List<Project> allProjects = [
   Project(

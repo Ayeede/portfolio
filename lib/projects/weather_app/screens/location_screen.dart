@@ -1,6 +1,6 @@
-import 'package:cv_main_project/projects/weather_app/screens/city_screen.dart';
-import 'package:cv_main_project/projects/weather_app/services/weather.dart';
-import 'package:cv_main_project/projects/weather_app/utilities/constants.dart';
+import 'package:ayden_davis_portfolio_website/projects/weather_app/screens/city_screen.dart';
+import 'package:ayden_davis_portfolio_website/projects/weather_app/services/weather.dart';
+import 'package:ayden_davis_portfolio_website/projects/weather_app/utilities/constants.dart';
 import 'package:flutter/material.dart';
 
 WeatherModel weather = WeatherModel();

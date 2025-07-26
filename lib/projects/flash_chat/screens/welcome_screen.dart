@@ -1,4 +1,4 @@
-import 'package:cv_main_project/projects/flash_chat/components/rounded_button.dart';
+import 'package:ayden_davis_portfolio_website/projects/flash_chat/components/rounded_button.dart';
 
 import 'registration_screen.dart';
 import 'package:flutter/material.dart';

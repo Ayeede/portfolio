@@ -1,5 +1,5 @@
-import 'package:cv_main_project/projects/flash_chat/components/rounded_button.dart';
-import 'package:cv_main_project/projects/flash_chat/constants.dart';
+import 'package:ayden_davis_portfolio_website/projects/flash_chat/components/rounded_button.dart';
+import 'package:ayden_davis_portfolio_website/projects/flash_chat/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'chat_screen.dart';

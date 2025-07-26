@@ -1,5 +1,5 @@
-import 'package:cv_main_project/projects/weather_app/services/location.dart';
-import 'package:cv_main_project/projects/weather_app/services/networking.dart';
+import 'package:ayden_davis_portfolio_website/projects/weather_app/services/location.dart';
+import 'package:ayden_davis_portfolio_website/projects/weather_app/services/networking.dart';
 
 const apiKey = '03f263d3d851a3a4a590bb0e4231947e';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';

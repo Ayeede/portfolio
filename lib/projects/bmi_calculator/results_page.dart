@@ -1,4 +1,4 @@
-import 'package:cv_main_project/projects/bmi_calculator/reusable_card.dart';
+import 'package:ayden_davis_portfolio_website/projects/bmi_calculator/reusable_card.dart';
 import 'package:flutter/material.dart';
 import 'bottom_button.dart';
 import 'components.dart';
